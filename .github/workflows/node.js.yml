@@ -2,6 +2,7 @@ name: Build and Deploy
 env:
   CI: false
   REACT_APP_GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+  USE_GITHUB_DATA: "true"
 on:
   push:
     branches: [ main ]
