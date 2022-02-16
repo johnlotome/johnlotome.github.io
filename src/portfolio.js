@@ -14,10 +14,10 @@ const greeting = {
   username: "Erika Lotome",
   title: "Hi all, I'm Erika",
   subTitle: emoji(
-    "A passionate Data Enineer/Data Scientist 🚀 having an experience in Machine Learning, Model Deployment, ETL and Scheduling and Data Visualization."
+    "An avid Data Engineer/Scientist 🚀 skilled in ETL & ELT, Data Pipelining, Exploratory Data Analysis, Machine Learning, Web-Scraping, Data Visualization, Batch Processing and Statistical Modelling who is also an AWS Certified Cloud Practitioner and experienced with Data Technology."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1CLONtjEW-7uCBp6CESXWYb8r4GUXSz16/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1l2s_y--iNS8BKqC1CNrzraxYcuAgVhSt/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
